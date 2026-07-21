@@ -1,0 +1,91 @@
+*{
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 568px;
+    height: 500px;
+    margin-left: 175px;
+    display: inline-block;
+}
+
+.links-nav{
+margin-top: 44px;
+margin-left: 76px;
+margin-bottom: 144px;
+display: inline-block;
+}
+
+a{
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-login{
+    color: #FFFFFF;
+    background-color: #665AE1;
+    width: 130px;
+    height: 41px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.corpo{
+    display: inline-block;
+    margin-left: 86px;
+}
+
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+}
+
+p{
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    width: 515px;
+    text-align: justify;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+
+.button-explore{
+    background-color: #ADFF00;
+    border-radius: 50px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    color: #000000;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+}
+
+
+
+
